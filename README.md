@@ -1,1 +1,1 @@
-# ECML-21-ML-meets-IoT-Tutorial
+# Machine Learning Meets Internet of Things: From Theory to Practice
