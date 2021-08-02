@@ -1,11 +1,7 @@
-# Machine Learning Meets Internet of Things: From Theory to Practice
+# PART II: Creating ML-based Self-learning IoT Devices
 
-```
-@article{mlmeetsiot2021,
-  title = {Machine learning meets internet of things: From theory to practice},
-  booktitle = {European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)},
-  author = {Sudharsan, Bharath and Patel, Pankesh},
-  url = {https://scholarcommons.sc.edu/aii_fac_pub/508/},
-  year = {2021}
-  
-```
+In this session, we brefily present and demo three frameworks
+
+1. Edge2Train to enable onboard resource-friendly training of SVM models
+2. Train++ for ultra-fast incremental onboard classifier training and inference
+3. ML-MCU to train up to a 50 class ML classifiers on a $ 3 device ESP32 MCU board.
