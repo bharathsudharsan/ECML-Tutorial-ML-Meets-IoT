@@ -24,6 +24,8 @@ We will deliver the concepts using Powerpoint slides embedded with animations an
 
 Since this tutorial makes use of concepts from both ML and IoT, the ideal preparation would be the basics of Arduino IDE, MCU boards, and basic ML models. Although our step-by-step tutorial will guide the audience on how to implement the tutorial covered technologies, the knowledge of programming languages such as Python, C/C++, and the set up of the Google Colab/Jupyter notebook would be beneficial for the hands-on and demo session.
 
+**If the tutorial is useful, please consider staring this GitHub repository and citing it using the BibTex entry below**
+
 ```
 @article{mlmeetsiot2021,
   title = {Machine learning meets internet of things: From theory to practice},
