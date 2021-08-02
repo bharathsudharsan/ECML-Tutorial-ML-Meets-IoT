@@ -6,7 +6,7 @@ In this tutorial session, we briefly present and demonstrate the following three
 2. Train++ for ultra-fast incremental onboard classifier training and inference
 3. ML-MCU to train up to 50 class ML classifiers on a $ 3 device ESP32 MCU board
 
-Then leveraging the basics from Part I and thus demonstrated frameworks, we will teach the audience how to create self-learning IoT devices/products.
+Then leveraging the basics from tutorial Part I and thus demonstrated frameworks, we will teach the audience how to create self-learning IoT devices/products.
 
 **Duration:** 50 mins in total with 20 minutes of slides presentation, 20 minutes of live demo, and 10 minutes for Q&A.
 
