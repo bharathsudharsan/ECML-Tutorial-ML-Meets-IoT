@@ -1,4 +1,4 @@
-# Porting and Execution of ML Classifiers on TinyML Hardware
+# Porting and Execution of ML Classifiers on MCU boards
 
 **Please consider citing below paper using the BibTex entry:**
 
