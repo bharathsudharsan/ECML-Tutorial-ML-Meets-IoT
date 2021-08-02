@@ -1,11 +1,5 @@
-# Machine Learning Meets Internet of Things: From Theory to Practice
+# PART III: Deep Optimizations of CNNs and Efficient Deployment on IoT Devices
 
-```
-@article{mlmeetsiot2021,
-  title = {Machine learning meets internet of things: From theory to practice},
-  booktitle = {European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)},
-  author = {Sudharsan, Bharath and Patel, Pankesh},
-  url = {https://scholarcommons.sc.edu/aii_fac_pub/508/},
-  year = {2021}
-  
-```
+We will start this tutorial session with a smart video doorbell motivation scenario [1]. We then show the audience how to utilize the multi-component ML model optimization code to generate resource-friendly video analytics models (face, violence, and theft detection) that can be deployed and executed on the hardware of video doorbells. This method enables even the resource-constrained doorbells to perform ultra-fast offline analytics without depending on internet and cloud subscriptions.
+
+[1] Pathak, Tapan, Vatsal Patel, Sarth Kanani, Shailesh Arya, Pankesh Patel, and Muhammad Intizar Ali. "A distributed framework to orchestrate video analytics across edge and cloud: a use case of smart doorbell." In Proceedings of the 10th International Conference on the Internet of Things, 2020
