@@ -18,7 +18,7 @@ Through this tutorial, we aim to interconnect the Software Engineering, Internet
  
 ### Tutorial Material
 
-We will deliver the concepts using Powerpoint slides embedded with animations and small code snippets. During content delivery, the audience will be asked to perform small and quick exercises to make the tutorial interactive. We also will interleave live/recorded demonstrations throughout the tutorial to improve the audience's understanding and also to provide them opportunities to study technology in action. The tutorial will have four parts with hands-on exercises relevant to each session (Folders named Part I to Part IV).
+We will deliver the concepts using Powerpoint slides embedded with animations and small code snippets. During content delivery, the audience will be asked to perform small and quick exercises to make the tutorial interactive. We also will interleave live/recorded demonstrations throughout the tutorial to improve the audience's understanding and also to provide them opportunities to study technology in action. The tutorial will have four parts (content provided in folders named Part I to Part IV) with hands-on exercises relevant to each session.
 
 ```
 @article{mlmeetsiot2021,
