@@ -4,7 +4,7 @@
 
 Standalone execution of problem-solving Artificial Intelligence (AI) on IoT devices produces a higher level of autonomy and privacy. This is because the sensitive user data collected by the devices need not be transmitted to the cloud for inference. The chipsets used to design IoT devices are resource-constrained due to their limited memory footprint, fewer computation cores, and low clock speeds. These limitations constrain one from deploying and executing complex problem-solving AI (usually an ML model) on IoT devices. Since there is a high potential for building intelligent IoT devices, in this tutorial, we teach researchers and developers; (i) How to deep compress CNNs and efficiently deploy on resource-constrained devices; (ii) How to efficiently port and execute ranking, regression, and classification problems solving ML classifiers on IoT devices; (iii) How to create ML-based self-learning devices that can locally re-train themselves on-the-fly using the unseen real-world data. 
 
-Tutorial webpage: https://sites.google.com/view/ml-meets-iot-ecml-tutorial/
+**Tutorial webpage:** https://sites.google.com/view/ml-meets-iot-ecml-tutorial/
 
 ### Aims and Learning Objectives
 
