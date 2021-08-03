@@ -1,4 +1,4 @@
-#Part II: Creating ML-based Self-learning IoT Devices
+# Part II: Creating ML-based Self-learning IoT Devices
 
 **Duration:** 50 mins. 20 mins of slides, 20 mins live demo, and 10 mins Q&A.
 
