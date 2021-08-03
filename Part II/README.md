@@ -10,6 +10,6 @@ Then leveraging the basics from tutorial Part I and thus demonstrated frameworks
 
 **Duration:** 50 mins in total with 20 minutes of slides presentation, 20 minutes of live demo, and 10 minutes for Q&A.
 
-**Speakers:** [Bharath Sudharsan](https://bharathsudharsan.github.io/profile/) and ?.
+**Speakers:** [Bharath Sudharsan](https://bharathsudharsan.github.io/profile/).
 
 **Take Home Information:** The audience would have learned how to make their IoT devices/products self-learn/train on-the-fly, using live IoT use-case data. Thus, their devices can self-learn to perform analytics for any target IoT use cases.
