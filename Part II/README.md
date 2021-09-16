@@ -6,6 +6,6 @@
 
 1. Edge2Train to enable onboard resource-friendly training of SVM models on MCUs.
 2. Train++ for ultra-fast incremental onboard classifier training and inference on MCUs.
-3. ML-MCU to train up to 50 class ML classifiers on a $ 3 device ESP32 MCU board.
+3. ML-MCU to train up to 50 class ML classifiers on a $ 3 ESP32 board.
 
 **Outcome:** The audience would have learned how to make their IoT devices/products self-learn/train on-the-fly, using live IoT use-case data. Thus, their devices can self-learn to perform analytics for any target IoT use cases. 
